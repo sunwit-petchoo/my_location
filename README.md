@@ -1,5 +1,7 @@
-# my_location
+# my_location application
 
 ##Contributors
 * Siripond
 * Sunwit
+
+
